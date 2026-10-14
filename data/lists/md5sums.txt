@@ -1,0 +1,2 @@
+27358024843fe40734e47aace20eebc5  vox2_dev_train.txt
+b73110731c9223c1461fe49cb48dddfc  veri_test2.txt

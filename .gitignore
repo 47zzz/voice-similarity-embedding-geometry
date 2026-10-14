@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+checkpoints/*
+!checkpoints/README.md
+embeddings/
+logs/
+*.h5
+*.model
+data/vox1_wav/
+data/vox2_wav/
+data/feat_shards_*/
+data/voxsim/
+data/lists/vox2_dev_train.txt
+data/lists/vox2_dev_train_wav.txt
